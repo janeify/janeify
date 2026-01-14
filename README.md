@@ -12,6 +12,7 @@ To apply my skills in SOC operations, detection engineering, DFIR, and machine l
 |-----------------------------------------------|----------------------------|
 | Machine Learning for Security                 | <a href="https://google.com">Detection Lab</a>|
 | SOC Home Lab (Hands-on)                       | <a href="https://github.com/janeify/Digital-Forensics-and-Incident-Response">Digital Forensics and Incident Response</a>|
+| Hands-on Splunk SIEM lab                      |   |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Incident Response                             | <a href="https://github.com/janeify/Digital-Forensics-and-Incident-Response">Digital Forensics and Incident Response</a>|
 | SOC-style investigation and documentation     | <a href="https://github.com/janeify/Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design">Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design</a>|
