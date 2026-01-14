@@ -15,6 +15,7 @@ To apply my skills in SOC operations, detection engineering, DFIR, and machine l
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Incident Response                             | <a href="https://google.com">Detection Lab</a>|
 | Incident Response                             | <a href="https://google.com">Detection Lab</a>|
+| Threat Modelling and Risk Assessment            <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
