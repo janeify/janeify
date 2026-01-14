@@ -61,3 +61,4 @@ To apply my skills in SOC operations, detection engineering, DFIR, and machine l
 - SOC Automation Project
 - Intelligent Intrusion Detection Using Network Flow and System-Level Anomaly Features
 - Secure-Biometric-System-Design-Requirements-Threat-Analysis-and-Network-Architecture
+- Digital Forensics and Incident Response: Investigation, Evidence Preservation, and Timeline Reconstruction
