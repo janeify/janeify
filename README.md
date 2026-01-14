@@ -53,6 +53,8 @@ To apply my skills in SOC operations, detection engineering, DFIR, and machine l
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Anambra%20State%20University-006400?&style=for-the-badge&logo=graduation-cap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cyprus%20International%20University-003366?&style=for-the-badge&logo=graduation-cap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Edge%20Hill%20University%20%7C%20Ormskirk%2C%20North%20West%20England-0072CE?&style=for-the-badge&logo=graduation-cap&logoColor=white" />    
 </div>
 
