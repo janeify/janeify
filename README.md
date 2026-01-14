@@ -11,9 +11,9 @@ To apply my skills in SOC operations, detection engineering, DFIR, and machine l
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Machine Learning for Security                 | <a href="https://google.com">Detection Lab</a>|
-| SOC Home Lab (Hands-on)                       | <a href="https://google.com">Detection Lab</a>|
+| SOC Home Lab (Hands-on)                       | <a href="https://github.com/janeify/Digital-Forensics-and-Incident-Response">Digital Forensics and Incident Response</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Incident Response                             | <a href="https://google.com">Detection Lab</a>|
+| Incident Response                             | <a href="https://github.com/janeify/Digital-Forensics-and-Incident-Response">Digital Forensics and Incident Response</a>|
 | SOC-style investigation and documentation     | <a href="https://google.com">Detection Lab</a>|
 | Threat Modelling and Risk Assessment          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
@@ -66,5 +66,6 @@ To apply my skills in SOC operations, detection engineering, DFIR, and machine l
 - Intelligent Intrusion Detection Using Network Flow and System-Level Anomaly Features
 - Secure-Biometric-System-Design-Requirements-Threat-Analysis-and-Network-Architecture
 - Digital Forensics and Incident Response: Investigation, Evidence Preservation, and Timeline Reconstruction
+- <a href="https://github.com/janeify/Digital-Forensics-and-Incident-Response">Digital Forensics and Incident Response</a>
 - Hands-on Splunk SIEM lab covering Windows 11 Pro setup, log forwarding, security monitoring, attack analysis, and SOC-based evaluation on Mac M1 using UTM virtualization.
 - Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design
