@@ -63,3 +63,4 @@ To apply my skills in SOC operations, detection engineering, DFIR, and machine l
 - Secure-Biometric-System-Design-Requirements-Threat-Analysis-and-Network-Architecture
 - Digital Forensics and Incident Response: Investigation, Evidence Preservation, and Timeline Reconstruction
 - Hands-on Splunk SIEM lab covering Windows 11 Pro setup, log forwarding, security monitoring, attack analysis, and SOC-based evaluation on Mac M1 using UTM virtualization.
+- Applied-Cybersecurity-Incident-Response-Web-Attacks-and-Secure-System-Design
