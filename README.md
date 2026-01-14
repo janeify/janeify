@@ -6,5 +6,15 @@ I am a cybersecurity and machine learning enthusiast with hands-on experience in
 ## Objective
 To apply my skills in SOC operations, detection engineering, DFIR, and machine learning to develop effective and scalable security monitoring solutions. I aim to contribute to blue-team security operations, threat detection research, and adversarially robust intrusion detection systems while continuously expanding my practical and analytical expertise.
 
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
