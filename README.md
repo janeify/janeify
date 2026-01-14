@@ -24,7 +24,7 @@ To apply my skills in SOC operations, detection engineering, DFIR, and machine l
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
