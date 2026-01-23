@@ -65,7 +65,7 @@ To apply my skills in SOC operations, detection engineering, DFIR, and machine l
 - SOC Home Lab (Hands-on)
 - Detection Lab
 - SOC Automation Project
-- Intelligent Intrusion Detection Using Network Flow and System-Level Anomaly Features
+<a href="https://github.com/janeify/Intelligent-intrusion-detection-feature-fusion">Intelligent-intrusion-detection-feature-fusion</a>
 - <a href="https://github.com/janeify/Secure-Biometric-System-Design-Requirements-Threat-Analysis-and-Network-Architecture">Secure-Biometric-System-Design-Requirements-Threat-Analysis-and-Network-Architecture</a>
 - <a href="https://github.com/janeify/Digital-Forensics-and-Incident-Response">Digital Forensics and Incident Response</a>
 - <a href="https://github.com/janeify/Hands-on-Splunk-SIEM-lab-covering-Windows-11-Pro-setup-log-forwarding-security-monitoring-attack-">Hands-on-Splunk-SIEM-lab-covering-Windows-11-Pro-setup-log-forwarding-security-monitoring-attack</a> 
