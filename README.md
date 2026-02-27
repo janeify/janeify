@@ -19,7 +19,7 @@ To apply my skills in SOC operations, detection engineering, DFIR, and machine l
 | Splunk Lab                                    | <a href="https://google.com">Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Email Analysis                                | Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -65,7 +65,8 @@ To apply my skills in SOC operations, detection engineering, DFIR, and machine l
 - SOC Home Lab (Hands-on)
 - Detection Lab
 - SOC Automation Project
-- Splunk Lab 
+- Splunk Lab
+- Email Analysis 
 - <a href="https://github.com/janeify/Intelligent-intrusion-detection-feature-fusion">Intelligent-intrusion-detection-feature-fusion</a>
 - <a href="https://github.com/janeify/Secure-Biometric-System-Design-Requirements-Threat-Analysis-and-Network-Architecture">Secure-Biometric-System-Design-Requirements-Threat-Analysis-and-Network-Architecture</a>
 - <a href="https://github.com/janeify/Digital-Forensics-and-Incident-Response">Digital Forensics and Incident Response</a>
