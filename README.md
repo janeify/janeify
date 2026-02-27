@@ -20,6 +20,8 @@ To apply my skills in SOC operations, detection engineering, DFIR, and machine l
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Lab</a>|
 | Email Analysis                                | Lab|
+| Senario                                       | Lab|
+| Malware Analysis                              | Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
