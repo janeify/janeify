@@ -56,7 +56,6 @@ To apply my skills in SOC operations, detection engineering, DFIR, and machine l
 <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20365%20Certified%3A%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Anambra%20State%20University-006400?&style=for-the-badge&logo=graduation-cap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Chukwuemeka%20Odumegwu%20Ojukwu%20University%2C%20Anambra%20State-006400?&style=for-the-badge&logo=graduation-cap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cyprus%20International%20University-003366?&style=for-the-badge&logo=graduation-cap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Edge%20Hill%20University%20%7C%20Ormskirk%2C%20North%20West%20England-0072CE?&style=for-the-badge&logo=graduation-cap&logoColor=white" />    
